@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  oud-ds-rs:
+  - apiVersion: v2
+    appVersion: 12.2.1.4.0
+    created: "2022-04-17T15:27:33.191742547+02:00"
+    description: A Helm chart for deployment of OUD Directory (DS+RS) instances on
+      Kubernetes. This chart will deploy an OUD instance as base with configured sample
+      entries and multiple replicated OUD instances/pods/services based on the specified
+      replicaCount.
+    digest: c8a68bfc4cabdf0803150c03bdcd289a3f19891c4deeefc12899bebcf4e3c6a4
+    name: oud-ds-rs
+    urls:
+    - https://github.com/Gulangy/helm-charts/releases/download/oud-ds-rs-0.1/oud-ds-rs-0.1.tgz
+    version: "0.1"
+generated: "2022-04-17T15:27:32.809840026+02:00"
