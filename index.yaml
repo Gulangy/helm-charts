@@ -11,6 +11,6 @@ entries:
     digest: c8a68bfc4cabdf0803150c03bdcd289a3f19891c4deeefc12899bebcf4e3c6a4
     name: oud-ds-rs
     urls:
-    - https://github.com/Gulangy/helm-charts/blob/main/oud-ds-rs-0.1.tgz
+    - https://github.com/Gulangy/helm-charts/oud-ds-rs-0.1.tgz
     version: "0.1"
 generated: "2022-04-17T15:27:32.809840026+02:00"
